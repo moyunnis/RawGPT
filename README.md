@@ -66,4 +66,4 @@ npm run build
 * **Vanilla JS** — Чистый код для максимальной скорости.
 
 
-Developed by RawNekoo.
+Developed by Moyunni.
