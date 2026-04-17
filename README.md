@@ -39,13 +39,13 @@
 ### Скачать
 Перейдите в раздел **Releases** и скачайте последнюю версию `RawGPT.exe`.
 
-[Download the RawGPT for android](https://github.com/rawneko/RawGPT-android/releases)
+[Download the RawGPT for android](https://codeberg.org/moyunni/RawGPT-android/releases)
 
 ### Запуск из исходного кода
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/rawneko/RawGPT.git
+git clone https://codeberg.org/moyunni/RawGPT.git
 
 # 2. Перейти в папку
 cd RawGPT
