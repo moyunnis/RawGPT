@@ -14,6 +14,16 @@
 
 ---
 
+# Repository Mirrors:
+
+[GitHub](https://github.com/moyunni/chistore),
+[GitVerse](https://gitverse.ru/chinchilla/chistore) and
+[Codeberg](https://codeberg.org/moyunni/chistore)
+
+---
+
+**Updates are released faster on codeberg. 10 minutes after writing the repository to codeberg, the changes will go to the mirrors.**
+
 **RawGPT** — это современный интерфейс для локальных нейросетей (Ollama). Полная приватность, стильный дизайн "Opera Air" и мощный функционал. Всё работает локально на вашем ПК.
 
 ![Скриншот интерфейса](./screenshot.png)
