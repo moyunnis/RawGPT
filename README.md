@@ -17,8 +17,8 @@
 # Repository Mirrors:
 
 [MansionGIT](https://git.inthemansion.com/moyunni/RawGPT),
-[GitVerse](https://gitverse.ru/chinchilla/chistore) and
-[Codeberg](https://codeberg.org/moyunni/chistore)
+[GitVerse](https://gitverse.ru/chinchilla/RawGPT) and
+[Codeberg](https://codeberg.org/moyunni/RawGPT)
 
 ---
 
