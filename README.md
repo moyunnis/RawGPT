@@ -16,8 +16,8 @@
 
 # Repository Mirrors:
 
-[MansionGIT](https://git.inthemansion.com/moyunni/RawGPT),
-[GitVerse](https://gitverse.ru/chinchilla/RawGPT)
+[MansionGIT](https://git.inthemansion.com/zoyuki/RawGPT),
+[Github](https://github.com/zoyuki/RawGPT)
 
 ---
 
@@ -48,13 +48,13 @@
 ### Скачать
 Перейдите в раздел **Releases** и скачайте последнюю версию `RawGPT.exe`.
 
-[Download the RawGPT for android](https://github.com/moyunnis/RawGPT-android/releases)
+[Download the RawGPT for android](https://github.com/zoyuki/RawGPT-android/releases)
 
 ### Запуск из исходного кода
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/moyunnis/RawGPT.git
+git clone https://github.com/zoyuki/RawGPT.git
 
 # 2. Перейти в папку
 cd RawGPT
@@ -75,4 +75,4 @@ npm run build
 * **Vanilla JS** — Чистый код для максимальной скорости.
 
 
-Developed by Moyunni.
+Developed by zoyuki.
